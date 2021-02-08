@@ -1,0 +1,16 @@
+{
+    "name": "guillaumesmo/twig-to-html",
+    "bin": ["twig-to-html.php"],
+    "require": {
+        "twig/twig": "^3.3",
+        "symfony/console": "^5.2",
+        "symfony/finder": "^5.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Guillaume Smolders",
+            "email": "guillaumesmo@gmail.com"
+        }
+    ]
+}
